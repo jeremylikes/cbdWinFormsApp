@@ -1,4 +1,5 @@
-# RMES_data_entry
+# Details
+I made this app to assist a friend with his CBD manaufcturing, processing, and bottling business in 2019.
 
 ## For demo purposes only
 This app is no longer in use and has been replaced by a SaaS product.
